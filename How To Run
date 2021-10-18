@@ -1,0 +1,11 @@
+Install the folder from github.
+
+[OPTIANAL] Unzip Folder
+
+Run inportTurtle.py  FIRST
+
+Run drawHouse after that as many times.
+
+
+
+Everytime you want to use the program after closing the folder, please run importTurtle again to avoid errors/breakdowns.
